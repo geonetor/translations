@@ -14,7 +14,7 @@
         <mnuActionJumpToRegistry>&amp;Καταχώρηση μητρώου</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>Φάκελος &amp;εγκατάστασης</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>Ιστοσελίδα &amp;προγράμματος</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Άνοιγμα στο Windows Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Εύρεση θέσης...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Εύρεση προέλευσης...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Αναζήτηση Google για</mnuActionGoogleFor>
@@ -23,10 +23,10 @@
         <mnuViewWinStoreApps>Εφαρμογές Windows Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Ανανέωση</mnuViewRefresh>
         <mnuViewListColumnsReset>Επαναφορά στηλών</mnuViewListColumnsReset>
-        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewColorScheme>Συνδυασμός χρωμάτων</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Λειτουργία ίδια με των Windows</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Ανοιχτόχρωμη λειτουργία (προεπιλογή)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Σκουρόχρωμη λειτουργία </mnuViewColorSchemeDark>
         <mnuViewLanguage>Γλώσσα διεπαφής</mnuViewLanguage>
         <mnuHelp>&amp;Βοήθεια</mnuHelp>
         <mnuHelpAbout>&amp;Σχετικά...</mnuHelpAbout>
